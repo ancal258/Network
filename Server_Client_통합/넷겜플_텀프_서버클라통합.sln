@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "클라첫번째", "컴퓨터그래픽스_기말플젝\컴퓨터그래픽스_기말플젝.vcxproj", "{56ADDDBC-73CB-45B1-853C-DE18A670B658}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Server", "SSS\SSS.vcxproj", "{266C9C06-CD5A-4CBA-A4B2-2950A974E577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56ADDDBC-73CB-45B1-853C-DE18A670B658}.Debug|Win32.ActiveCfg = Debug|Win32
+		{56ADDDBC-73CB-45B1-853C-DE18A670B658}.Debug|Win32.Build.0 = Debug|Win32
+		{56ADDDBC-73CB-45B1-853C-DE18A670B658}.Debug|x64.ActiveCfg = Debug|Win32
+		{56ADDDBC-73CB-45B1-853C-DE18A670B658}.Release|Win32.ActiveCfg = Release|Win32
+		{56ADDDBC-73CB-45B1-853C-DE18A670B658}.Release|Win32.Build.0 = Release|Win32
+		{56ADDDBC-73CB-45B1-853C-DE18A670B658}.Release|x64.ActiveCfg = Release|Win32
+		{266C9C06-CD5A-4CBA-A4B2-2950A974E577}.Debug|Win32.ActiveCfg = Debug|Win32
+		{266C9C06-CD5A-4CBA-A4B2-2950A974E577}.Debug|Win32.Build.0 = Debug|Win32
+		{266C9C06-CD5A-4CBA-A4B2-2950A974E577}.Debug|x64.ActiveCfg = Debug|x64
+		{266C9C06-CD5A-4CBA-A4B2-2950A974E577}.Debug|x64.Build.0 = Debug|x64
+		{266C9C06-CD5A-4CBA-A4B2-2950A974E577}.Release|Win32.ActiveCfg = Release|Win32
+		{266C9C06-CD5A-4CBA-A4B2-2950A974E577}.Release|Win32.Build.0 = Release|Win32
+		{266C9C06-CD5A-4CBA-A4B2-2950A974E577}.Release|x64.ActiveCfg = Release|x64
+		{266C9C06-CD5A-4CBA-A4B2-2950A974E577}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
